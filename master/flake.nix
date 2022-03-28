@@ -11,7 +11,6 @@
   inputs.src-jq-master.ref   = "refs/heads/master";
   inputs.src-jq-master.owner = "alialrahahleh";
   inputs.src-jq-master.repo  = "fjq";
-  inputs.src-jq-master.dir   = "";
   inputs.src-jq-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
