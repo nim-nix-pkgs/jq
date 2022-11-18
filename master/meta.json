@@ -1,8 +1,0 @@
-{
-  "description": "Fast JSON parser",
-  "license": "BSD-3-Clause",
-  "name": "jq",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/alialrahahleh/fjq",
-  "version": "master"
-}
